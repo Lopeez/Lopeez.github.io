@@ -11,8 +11,9 @@
 
   <img src="http://lorempixel.com/125/125/technics/2/cc" alt="Lopez">
 
-  <p>The is a short intro to who I am.</p>
-  <p>This is a 2nd paragraph about me.</p>
+  <p>Experienced Escalation Specialist with a demonstrated history of working in the information technology and services industry. Skilled in Negotiation, Budgeting, Microsoft Word, Sales, and Retail. Strong support professional with a focus on Customer Solutions.</p>
+  <p>"Neque porro quisquam est qui dolorem ipsum quia dolor sit amet, consectetur, adipisci velit..."
+"There is no one who loves pain itself, who seeks after it and wants to have it, simply because it is pain..."</p>
 
   <ul>
     <li><strong>Email:</strong> <a href="#">lopeezmail@gmail.com</a></li>
